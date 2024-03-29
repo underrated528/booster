@@ -3,10 +3,10 @@
 # config.py
 
 class api:
-	consumer_key        = 'CHANGEME'
-	consumer_secret     = 'CHANGEME'
-	access_token        = 'CHANGEME'
-	access_token_secret = 'CHANGEME'
+	consumer_key        = 'A7Z6K3EH6cuAKUjL07IthZg2U'
+	consumer_secret     = 'PEjIYIlugK3QxBQULWVwd0X64whTsmk8gsLMhPZCZtLT0HUeLy'
+	access_token        = '1625857606823874563-VBI7M5Wo2y4lKZtUGICP0ICJ6h2F50'
+	access_token_secret = '8jxU0XwtbUVicgt9IiVIxrUJpgdYSJ7V2ss0y7XZj51Ij'
 
 class throttle:
 	favorite = 75
